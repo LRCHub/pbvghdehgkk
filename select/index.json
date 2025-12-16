@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ラストリゾート",
+  "base_artist": "Ayase",
+  "createdAt": "2025-12-16T08:40:14.099029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラストリゾート",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_ラストリゾート_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "【オリジナルMV】ラストリゾート 歌いました【Ado】",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_【オリジナルMV】ラストリゾート_歌いました【Ado】_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストリゾート",
+      "artist": "Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_ラストリゾート_Ayase.txt"
+    }
+  ]
+}
